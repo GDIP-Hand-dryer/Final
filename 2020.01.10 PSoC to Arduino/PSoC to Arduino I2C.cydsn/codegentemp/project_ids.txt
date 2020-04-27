@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d41cecfe-8b28-4ce6-a3e6-a58dbe0f1bff
+C:\Users\James\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|5164b4dd-9cb6-46cc-94ab-c816283a9e11
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cf11e623-2026-422e-9dde-3e5cbb3a3030
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|cd733f01-cfcb-457c-8f6f-33bb35f3e87c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e7fe3bc6-a4c6-4a86-9157-94658064e2c6
+C:\Users\James\Documents\PSoC Creator\GDIP\I2C_LCD_Example01.cydsn\I2C_LCD_Example01.cyprj|3d2429c1-42f8-4ae6-8180-c01a7b83d39a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|7b564526-1b8b-4f71-a538-77bf362b4669
+C:\Users\James\Documents\PSoC Creator\GDIP\PSoC to Arduino I2C.cydsn\PSoC to Arduino I2C.cyprj|556e39c0-e373-49a3-b5b3-427c054f4ad1

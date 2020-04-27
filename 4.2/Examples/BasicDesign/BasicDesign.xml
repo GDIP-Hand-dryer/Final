@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BasicDesign">
+  <Version>2.20</Version>
+  <Keyword>ADC_DelSig</Keyword>
+  <Keyword>Timer</Keyword>
+  <Keyword>ISR</Keyword>
+  <Description>The BasicDesign project contains an example for use with the PSoC Creator Help tutorials: "Basic Design" and "Debugging a Design." This project and tutorials provide more details about working with a design, including pins, clocks, and interrupts. They also provide a simple example that can be used with the debugger.
+  </Description>
+  <DeviceFilter>PSoC 3</DeviceFilter>
+  <DeviceFilter>PSoC 5LP</DeviceFilter>
+  <Document>BasicDesign.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

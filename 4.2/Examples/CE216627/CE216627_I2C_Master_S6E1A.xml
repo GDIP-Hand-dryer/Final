@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Project Name="CE216627_I2C_Master_S6E1A" WorkspaceName="CE216627.cywrk">
+  <Version>1.10</Version>
+  <Keyword>I2C</Keyword>
+  <Keyword>Master</Keyword>
+  <Keyword>MFS</Keyword>
+  <Keyword Hidden="true">PDL_MFS</Keyword>
+  <Keyword Hidden="true">FM0-V48-S6E1A1</Keyword>
+  <Keyword Hidden="true">FM0</Keyword>
+  <Keyword Hidden="true">FM0+</Keyword>
+  <Description>
+  I2C communication between a master (this project) and slave (CE216628_I2C_Slave_S6E1A). The master periodically sends an on/off command to the slave, which controls an LED accordingly.
+  </Description>
+  <DeviceFilter>S6E1A1</DeviceFilter>
+  <Document>CE216627.pdf</Document>
+  <MinToolVersion>4.1.0.0</MinToolVersion>
+</Project>

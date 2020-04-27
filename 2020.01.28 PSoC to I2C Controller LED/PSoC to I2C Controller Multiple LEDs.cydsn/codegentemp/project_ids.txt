@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc3\AnalogDevice\PSoC35AnalogDevice.cylib\PSoC35AnalogDevice.cyprj|35b335c0-dac0-4315-9253-bc7c2e3996ef
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2f20945d-99fb-4158-8f8f-10722764a0fc
+C:\Users\James\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|143b32c7-fdf5-4d1e-ba02-1c0d5d4da73e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|eebc5822-efd8-4b00-b6b4-142dcd67898e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|28fc7cde-5f86-4ea3-8878-13d266ce05c0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|55d62729-8059-49c8-bb6c-af3030989e9a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|7903cb83-c458-49a0-a1f2-b48fe7936de6
+C:\Users\James\Documents\PSoC Creator\GDIP\PSoC to I2C Controller Multiple LEDs.cydsn\PSoC to I2C Controller Multiple LEDs.cyprj|a5efeb30-b705-4965-8d37-30c5f534eacb

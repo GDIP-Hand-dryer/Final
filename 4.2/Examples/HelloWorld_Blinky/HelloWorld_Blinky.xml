@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="HelloWorld_Blinky">
+  <Version>1.0</Version>
+  <Keyword>PWM</Keyword>
+  <Description>This project provides an introduction into the process of creating a design in PSoC Creator. It accomplishes the simple tasks of printing "Hello World" on an LCD, and blinking an LED using a PWM component.</Description>
+  <DeviceFilter>PSoC 3</DeviceFilter>
+  <DeviceFilter>PSoC 5LP</DeviceFilter>
+  <Document>HelloWorld_Blinky.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

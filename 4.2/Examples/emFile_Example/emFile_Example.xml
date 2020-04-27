@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="emFile_Example">
+  <Version>1.0</Version>
+  <Keyword>emFile</Keyword>
+  <Description>Example project demonstrates emFile component operation</Description>
+  <DeviceFilter>PSoC 3</DeviceFilter>
+  <DeviceFilter>PSoC 5LP</DeviceFilter>
+  <Document>emFile_Example.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

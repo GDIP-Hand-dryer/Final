@@ -1,0 +1,2072 @@
+Archive member included to satisfy reference by file (symbol)
+
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+                              .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o (CyResetStatus)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+                              .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o) (CyPmReadStatus)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+                              .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o (CyDelayCycles)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+                              .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o) (CyFlash_SetWaitCycles)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+                              .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o) (CySpcStart)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+                              .\CortexM3\ARM_GCC_541\Debug\main.o (FS_FormatSD)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o) (FS_FAT_GetFATType)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o) (FS_FAT_InitDirEntryScan)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o) (FS_FAT_Close)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o) (FS__CLIB_memcmp)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o) (FS__DivideU32Up)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+                              .\CortexM3\ARM_GCC_541\Debug\main.o (FS_MkDir)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o) (FS_LB_GetStatus)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_memcpy.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o) (FS_memcpy)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o) (FS__AllocSectorBuffer)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+                              .\CortexM3\ARM_GCC_541\Debug\main.o (FS_Read)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+                              .\CortexM3\ARM_GCC_541\Debug\main.o (FS_GetVolumeName)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o) (FS__UnmountForcedNL)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o) (FS__AutoMount)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+                              .\CortexM3\ARM_GCC_541\Debug\main.o (FS_Write)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o) (FS_FAT__CheckDisk)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o) (FS_FAT_ReadDir)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o) (FS_FAT_SetDirEntryInfo)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o) (FS_FAT_GetDiskInfo)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o) (FS_FAT_FormatEx)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o) (FS_FAT_Read)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o) (FS_FAT_SetVolumeLabel)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o) (FS__LocatePartition)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o) (FS_X_AddDevices)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+                              .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o) (FS_MMC_SPI_Driver)
+..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o) (FS_CRC16_Calc)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o) (FS_MMC_HW_X_EnableCS)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                              .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o) (emFile_SPI0_ReadTxStatus)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+                              .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o) (emFile_Clock_1_Start)
+.\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+                              .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o) (emFile_SPI0_CS_Write)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+                              .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o (__errno)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o) (memcmp)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+                              .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o (memcpy)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
+                              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o) (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+Int1                0x1               .\CortexM3\ARM_GCC_541\Debug\main.o
+FS_Global           0x80              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+emFile_SPI0_swStatusTx
+                    0x1               .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+FS_NumBytesAllocated
+                    0x4               ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+FS_STORAGE_Counters
+                    0x14              ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+dieTemperature      0x2               .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+emFile_SPI0_swStatusRx
+                    0x1               .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\main.o
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\main.o
+ COMMON         0x00000000        0x1 .\CortexM3\ARM_GCC_541\Debug\main.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.CYMEMZERO
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.CYCONFIGCPYCODE
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.SetAnalogRoutingPumps
+                0x00000000       0x28 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .data          0x00000000        0x4 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .text._exit    0x00000000       0x14 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .text._sbrk    0x00000000       0x50 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .bss           0x00000000       0x19 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyPLL_OUT_Start
+                0x00000000       0xb0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyPLL_OUT_Stop
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyPLL_OUT_SetPQ
+                0x00000000       0x94 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyPLL_OUT_SetSource
+                0x00000000       0x58 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIMO_Start
+                0x00000000       0x94 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIMO_Stop
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyUSB_PowerOnCheck
+                0x00000000       0x60 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIMO_SetTrimValue
+                0x00000000      0x108 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIMO_SetFreq
+                0x00000000      0x1b0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIMO_SetSource
+                0x00000000       0x8c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIMO_EnableDoubler
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIMO_DisableDoubler
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyMasterClk_SetSource
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyMasterClk_SetDivider
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyBusClk_Internal_SetDivider
+                0x00000000       0x78 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyBusClk_SetDivider
+                0x00000000       0xb4 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyUsbClk_SetSource
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_Start1K
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_Stop1K
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_Start100K
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_Stop100K
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_Enable33K
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_Disable33K
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_SetSource
+                0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyILO_SetPowerMode
+                0x00000000       0x4c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_32KHZ_Start
+                0x00000000       0x88 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_32KHZ_Stop
+                0x00000000       0x50 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_32KHZ_ReadStatus
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_32KHZ_SetPowerMode
+                0x00000000       0xb4 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_Start
+                0x00000000       0xd0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_Stop
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_EnableErrStatus
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_DisableErrStatus
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_ReadStatus
+                0x00000000       0x24 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_EnableFaultRecovery
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_DisableFaultRecovery
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_SetStartup
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_SetFbVoltage
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyXTAL_SetWdVoltage
+                0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyHalt   0x00000000       0x18 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySoftwareReset
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyDelayUs
+                0x00000000       0x28 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyDelayFreq
+                0x00000000       0x7c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyWdtStart
+                0x00000000       0x8c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyWdtClear
+                0x00000000       0x18 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdLvDigitEnable
+                0x00000000       0xcc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdLvAnalogEnable
+                0x00000000       0xcc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdLvDigitDisable
+                0x00000000       0x48 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdLvAnalogDisable
+                0x00000000       0x44 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdHvAnalogEnable
+                0x00000000       0x7c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdHvAnalogDisable
+                0x00000000       0x30 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdStickyStatus
+                0x00000000       0x5c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyVdRealTimeStatus
+                0x00000000       0x30 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyDisableInts
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyEnableInts
+                0x00000000       0x2c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyFlushCache
+                0x00000000       0x5c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIntSetSysVector
+                0x00000000       0x4c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIntGetSysVector
+                0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIntSetVector
+                0x00000000       0x50 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIntGetVector
+                0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIntSetPriority
+                0x00000000       0x48 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIntGetPriority
+                0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyIntGetState
+                0x00000000       0x44 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickStart
+                0x00000000       0x24 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickInit
+                0x00000000       0x6c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickEnable
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickStop
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickEnableInterrupt
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickDisableInterrupt
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickSetReload
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickGetReload
+                0x00000000       0x18 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickGetValue
+                0x00000000       0x18 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickSetClockSource
+                0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickGetClockSource
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickGetCountFlag
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickClear
+                0x00000000       0x18 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickSetCallback
+                0x00000000       0x30 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickGetCallback
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CySysTickServiceCallbacks
+                0x00000000       0x44 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text.CyGetUniqueId
+                0x00000000       0xc4 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .bss           0x00000000       0x43 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .rodata        0x00000000        0xf .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmSaveClocks
+                0x00000000      0x288 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmRestoreClocks
+                0x00000000      0x2f0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmAltAct
+                0x00000000       0xbc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmSleep
+                0x00000000      0x170 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHibernate
+                0x00000000       0x10 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHibernateEx
+                0x00000000      0x158 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmReadStatus
+                0x00000000       0x5c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHibSaveSet
+                0x00000000       0xe8 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHibRestore
+                0x00000000       0x78 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmCtwSetInterval
+                0x00000000       0x94 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmOppsSet
+                0x00000000       0x44 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmFtwSetInterval
+                0x00000000       0x94 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHibSlpSaveSet
+                0x00000000      0x280 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHibSlpRestore
+                0x00000000      0x18c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHviLviSaveDisable
+                0x00000000       0xd8 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .text.CyPmHviLviRestore
+                0x00000000       0x58 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .bss           0x00000000        0x4 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyFlash_Start
+                0x00000000       0x8c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyFlash_Stop
+                0x00000000       0x48 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyFlash_EraseRow
+                0x00000000       0xb0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CySetTempInt
+                0x00000000       0x7c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyFlashGetSpcAlgorithm
+                0x00000000       0x70 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CySetTemp
+                0x00000000       0x24 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CySetFlashEEBuffer
+                0x00000000       0x54 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyWriteRowData
+                0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyWriteRowFull
+                0x00000000      0x154 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyFlash_SetWaitCycles
+                0x00000000       0xbc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyEEPROM_Start
+                0x00000000       0x8c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyEEPROM_Stop
+                0x00000000       0x48 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyEEPROM_ReadReserve
+                0x00000000       0x30 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text.CyEEPROM_ReadRelease
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ COMMON         0x00000000        0x2 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .bss           0x00000000        0x8 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcStart
+                0x00000000       0x48 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcStop
+                0x00000000       0x48 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcReadData
+                0x00000000       0x54 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcLoadMultiByte
+                0x00000000       0xd0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcLoadRow
+                0x00000000       0x88 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcLoadRowFull
+                0x00000000       0xcc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcWriteRow
+                0x00000000       0x98 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcEraseSector
+                0x00000000       0x70 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcEraseRow
+                0x00000000       0x98 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcGetTemp
+                0x00000000       0x64 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcLock
+                0x00000000       0x68 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcUnlock
+                0x00000000       0x50 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text.CySpcGetAlgorithm
+                0x00000000       0x44 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_GetIndexOfLastSector
+                0x00000000       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_AllocClusterBlock
+                0x00000000       0x64 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_GrowRootDir
+                0x00000000       0xb0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_OpenJournalFile
+                0x00000000       0x44 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_CreateJournalFile
+                0x00000000       0xd4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .rodata.str1.1
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ .text.FS_FAT_WriteDirEntryShort
+                0x00000000       0x3c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+ .text.FS_FAT_Clean
+                0x00000000        0x2 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .text.FS__CLIB_strncat
+                0x00000000       0x2e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .text.FS__CLIB_strcat
+                0x00000000       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .text.FS__CLIB_strcpy
+                0x00000000       0x1c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .text.FS__CLIB_atoi
+                0x00000000       0x9c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_SetMemAccessCallback
+                0x00000000        0x2 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_LoadU16BE
+                0x00000000        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_StoreU16BE
+                0x00000000        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_StoreU32BE
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_StoreU24LE
+                0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_SetMaxSectorSize
+                0x00000000       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_SetMemHandler
+                0x00000000        0x2 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_GetMaxSectorSize
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_BITFIELD_CalcNumBitsUsed
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_BITFIELD_ReadEntry
+                0x00000000       0x3e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_BITFIELD_WriteEntry
+                0x00000000       0x38 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_BITFIELD_CalcSize
+                0x00000000        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_AllocZeroedPtr
+                0x00000000       0x1e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_STORAGE_DeInit
+                0x00000000       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_DeInit
+                0x00000000       0x54 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_SetBusyLEDCallback
+                0x00000000       0x12 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS__FindClose
+                0x00000000        0x6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS_FindClose
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS__FindNextFile
+                0x00000000       0x52 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS_FindNextFile
+                0x00000000        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS__FindFirstFileEx
+                0x00000000       0x86 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS__FindFirstFile
+                0x00000000       0x2e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS_FindFirstFile
+                0x00000000        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS__RmDir
+                0x00000000       0x58 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text.FS_RmDir
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .text.FS_LB_Ioctl
+                0x00000000       0x2a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .text.FS_LB_FreePartSectors
+                0x00000000       0x16 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_memcpy.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_memcpy.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_memcpy.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text._CalcSizeInKB
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__GetFileObj
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__FTell
+                0x00000000        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__FSeek
+                0x00000000       0x42 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__CalcSizeInBytes
+                0x00000000       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__CalcSizeInKB
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_FSeek
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_FTell
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_FEof  0x00000000       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_FError
+                0x00000000        0xe ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_ClearErr
+                0x00000000        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_ConfigUpdateDirOnWrite
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_SetFileWriteMode
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__RemoveDevices
+                0x00000000       0x60 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__RemoveDevice
+                0x00000000       0x9c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_RemoveDevice
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__Remove
+                0x00000000       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS_Remove
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__GetNumVolumes
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_AddPhysDevice
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_GetNumVolumes
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_ResetCounters
+                0x00000000        0x2 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_GetCounters
+                0x00000000        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_FindVolume
+                0x00000000       0x58 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_SetOnDeviceActivityHook
+                0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__GetVolumeStatus
+                0x00000000       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_GetVolumeStatus
+                0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__GetDeviceInfo
+                0x00000000       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_GetDeviceInfo
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__ReadSectors
+                0x00000000       0x26 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_ReadSectors
+                0x00000000       0x1c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__WriteSectors
+                0x00000000       0x26 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_WriteSectors
+                0x00000000       0x1c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__ReadSector
+                0x00000000       0x22 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_ReadSector
+                0x00000000       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__WriteSector
+                0x00000000       0x22 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_WriteSector
+                0x00000000       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__IoCtlNL
+                0x00000000       0x36 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__UnmountForcedLL
+                0x00000000       0x22 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_UnmountForced
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__UnmountLL
+                0x00000000       0x22 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_Unmount
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__IoCtl
+                0x00000000        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_IoCtl
+                0x00000000       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__STORAGE_Sync
+                0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_STORAGE_Sync
+                0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__IsLLFormatted
+                0x00000000       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_IsLLFormatted
+                0x00000000       0x16 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS__FormatLow
+                0x00000000       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_FormatLow
+                0x00000000       0x16 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text.FS_FormatLLIfRequired
+                0x00000000       0x16 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ COMMON         0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .text.FS__UnmountForcedNL
+                0x00000000       0x54 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .text.FS__UnmountForced
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .text.FS_UnmountForced
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .text.FS__Unmount
+                0x00000000       0x60 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .text.FS_Unmount
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .text.FS__UnmountNL
+                0x00000000       0x4c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_SetAutoMount
+                0x00000000       0x12 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_IsVolumeMounted
+                0x00000000       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS__Sync
+                0x00000000       0x40 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_Sync  0x00000000       0x16 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS__AutoMountNL
+                0x00000000       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text._GetVolumeInfoEx
+                0x00000000       0x30 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_CheckDisk
+                0x00000000       0x50 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS__GetVolumeInfoEx
+                0x00000000       0x24 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_GetVolumeSizeKB
+                0x00000000       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_GetVolumeSize
+                0x00000000       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS__GetVolumeInfo
+                0x00000000        0x6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_GetVolumeFreeSpaceKB
+                0x00000000       0x26 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_GetVolumeFreeSpace
+                0x00000000       0x26 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_GetVolumeInfo
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_IsHLFormatted
+                0x00000000       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_SetVolumeLabel
+                0x00000000       0x2a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_GetVolumeLabel
+                0x00000000       0x32 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS__MountNL
+                0x00000000       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS__Mount
+                0x00000000        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_MountEx
+                0x00000000       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS_Mount
+                0x00000000       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .bss           0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text.FS_FAT_AbortCheckDisk
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._IsClusterEOC
+                0x00000000       0x42 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._CheckName
+                0x00000000       0x32 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._IsDotFolderEntryValid
+                0x00000000       0x2c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._CreateDirName
+                0x00000000       0x58 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._CreateFileName
+                0x00000000       0x6c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._SetFileLen
+                0x00000000       0x2e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._CheckFile
+                0x00000000      0x21e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text._CheckDir
+                0x00000000      0x374 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text.FS_FAT__CheckDisk
+                0x00000000      0x388 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .rodata.str1.1
+                0x00000000       0x29 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .text.FS_FAT_CloseDir
+                0x00000000        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .text.FS_FAT_ReadDir
+                0x00000000       0x38 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .text.FS_FAT_RemoveDir
+                0x00000000       0x88 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .text.FS_FAT_OpenDir
+                0x00000000       0x72 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+ .text.FS_FAT_SetDirEntryInfo
+                0x00000000       0xb2 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+ .text.FS_FAT_GetDirEntryInfo
+                0x00000000       0x90 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+ .text.FS_FAT_GetDiskSpace
+                0x00000000        0xe ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+ .text.FS_FAT_GetDiskInfo
+                0x00000000       0x84 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .text.FS_FAT_Format
+                0x00000000       0x74 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .text._FindVolumeDirEntry
+                0x00000000       0x3e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .text.FS_FAT_SetVolumeLabel
+                0x00000000       0xd6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .text.FS_FAT_GetVolumeLabel
+                0x00000000       0x5c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .text.FS__GetMediaStartSec
+                0x00000000       0x2a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text.FS_MMC_ActivateCRC
+                0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text.FS_MMC_DeactivateCRC
+                0x00000000       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._CalcDataCRC16ViaTable
+                0x00000000        0x6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text.FS_MMC_GetCardId
+                0x00000000       0x78 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .data          0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .bss           0x00000000        0x0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .text.FS_CRC16_Calc
+                0x00000000       0x30 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .text.FS_CRC16_CalcBitByBit
+                0x00000000       0x30 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .text.FS_CRC16_Validate
+                0x00000000       0x32 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .rodata        0x00000000      0x200 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_Stop
+                0x00000000       0x50 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_DisableTxInt
+                0x00000000        0xc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_DisableRxInt
+                0x00000000        0xc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_SetTxInterruptMode
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_SetRxInterruptMode
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_GetRxBufferSize
+                0x00000000       0x2c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_GetTxBufferSize
+                0x00000000       0x40 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_ClearRxBuffer
+                0x00000000       0x28 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_ClearTxBuffer
+                0x00000000       0x44 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_PutArray
+                0x00000000       0x3c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_EnableInt
+                0x00000000       0x10 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_DisableInt
+                0x00000000       0x10 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_SetInterruptMode
+                0x00000000       0x30 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text.emFile_SPI0_ReadStatus
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ COMMON         0x00000000        0x2 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .text.emFile_Clock_1_StopBlock
+                0x00000000       0xb0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .text.emFile_Clock_1_StandbyPower
+                0x00000000       0x40 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .text.emFile_Clock_1_SetModeRegister
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .text.emFile_Clock_1_ClearModeRegister
+                0x00000000       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .text.emFile_Clock_1_GetModeRegister
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .text.emFile_Clock_1_SetSourceRegister
+                0x00000000       0xc4 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .text.emFile_SPI0_CS_SetDriveMode
+                0x00000000       0x3c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .text.emFile_SPI0_CS_Read
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .text.emFile_SPI0_CS_ReadDataReg
+                0x00000000       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+ .text.memcmp   0x00000000       0x1e c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000       0x10 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00040000         xr
+ram              0x1fff8000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+START GROUP
+LOAD .\CortexM3\ARM_GCC_541\Debug\main.o
+LOAD .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+LOAD .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+LOAD .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+LOAD .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a
+LOAD C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM3\ARM_GCC_541\Debug\CyComponentLibrary.a
+LOAD ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+                0x00000000                CY_APPL_ORIGIN = 0x0
+                0x00000100                CY_FLASH_ROW_SIZE = 0x100
+                0x00000020                CY_ECC_ROW_SIZE = 0x20
+                0x00000000                CY_EE_IN_BTLDR = 0x0
+                0x00000000                CY_APPL_LOADABLE = 0x0
+                0x00000800                CY_EE_SIZE = 0x800
+                0x00000001                CY_APPL_NUM = 0x1
+                0x00000001                CY_APPL_MAX = 0x1
+                0x00000040                CY_METADATA_SIZE = 0x40
+                0x00000000                CY_APPL_LOADABLE = 0x0
+                0x00000000                CY_CHECKSUM_EXCLUDE_SIZE = ALIGN (0x0, CY_FLASH_ROW_SIZE)
+                [!provide]                PROVIDE (__cy_heap_start, _end)
+                0x00000001                PROVIDE (__cy_region_num, ((__cy_regions_end - __cy_regions) / 0x10))
+                0x20008000                PROVIDE (__cy_stack, (ORIGIN (ram) + LENGTH (ram)))
+                [!provide]                PROVIDE (__cy_heap_end, (__cy_stack - 0x800))
+
+.cybootloader   0x00000000        0x0
+ *(.cybootloader)
+                0x00000000                appl1_start = CY_APPL_ORIGIN?CY_APPL_ORIGIN:ALIGN (CY_FLASH_ROW_SIZE)
+                0x0001ff00                appl2_start = (appl1_start + ALIGN ((((LENGTH (rom) - appl1_start) - (0x2 * CY_FLASH_ROW_SIZE)) / 0x2), CY_FLASH_ROW_SIZE))
+                0x00000000                appl_start = (CY_APPL_NUM == 0x1)?appl1_start:appl2_start
+                0x00000000                ecc_offset = ((appl_start / CY_FLASH_ROW_SIZE) * CY_ECC_ROW_SIZE)
+                0x00000000                ee_offset = (CY_APPL_LOADABLE && ! (CY_EE_IN_BTLDR))?((CY_EE_SIZE / CY_APPL_MAX) * (CY_APPL_NUM - 0x1)):0x0
+                0x00000800                ee_size = (CY_APPL_LOADABLE && ! (CY_EE_IN_BTLDR))?(CY_EE_SIZE / CY_APPL_MAX):CY_EE_SIZE
+                [!provide]                PROVIDE (CY_ECC_OFFSET, ecc_offset)
+
+.text           0x00000000     0x4346
+ CREATE_OBJECT_SYMBOLS
+                0x00000000                PROVIDE (__cy_interrupt_vector, RomVectors)
+ *(.romvectors)
+ .romvectors    0x00000000       0x10 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                0x00000000                RomVectors
+                0x00000001                ASSERT ((. != __cy_interrupt_vector), No interrupt vector)
+                0x00000001                ASSERT (CY_APPL_ORIGIN?(SIZEOF (.cybootloader) <= CY_APPL_ORIGIN):0x1, Wrong image location)
+                0x00000010                PROVIDE (__cy_reset, Reset)
+ *(.text.Reset)
+ .text.Reset    0x00000010       0x18 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                0x00000010                Reset
+                0x00000001                ASSERT ((. != __cy_reset), No reset code)
+ *(.dma_init)
+ .dma_init      0x00000028      0x168 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+                0x00000001                ASSERT ((((appl_start + .) <= 0x10000) || 0x0), DMA Init must be within the first 64k of flash)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x00000190       0x5c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text.main     0x000001ec      0x120 .\CortexM3\ARM_GCC_541\Debug\main.o
+                0x000001ec                main
+ .text.CYCONFIGCPY
+                0x0000030c       0x20 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.CyClockStartupError
+                0x0000032c        0xc .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.cfg_dma_init
+                0x00000338      0x174 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.ClockSetup
+                0x000004ac      0x160 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.AnalogSetDefault
+                0x0000060c       0x44 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.cyfitter_cfg
+                0x00000650       0xec .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+                0x00000650                cyfitter_cfg
+ .text.IntDefaultHandler
+                0x0000073c       0x14 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                0x0000073c                IntDefaultHandler
+ .text.Start_c  0x00000750       0x98 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                0x00000750                Start_c
+ .text.initialize_psoc
+                0x000007e8       0x90 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                0x000007e8                initialize_psoc
+ .text.CyDelay  0x00000878       0x44 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+                0x00000878                CyDelay
+ *fill*         0x000008bc        0x4 
+ .text          0x000008c0       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+                0x000008c0                CyDelayCycles
+                0x000008d0                CyEnterCriticalSection
+                0x000008d8                CyExitCriticalSection
+ .text.FS__SD_Format
+                0x000008e0      0x26c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+                0x000008e0                FS__SD_Format
+ .text.FS_FormatSD
+                0x00000b4c       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+                0x00000b4c                FS_FormatSD
+ .text._ClusterId2FATOff
+                0x00000b5c       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text._CalcLogClusterPos
+                0x00000b74        0xe ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text._ReadFromFreeClusterCache
+                0x00000b82       0x46 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_GetFATType
+                0x00000bc8       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000bc8                FS_FAT_GetFATType
+ .text.FS_FAT_ClusterId2SectorNo
+                0x00000be2        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000be2                FS_FAT_ClusterId2SectorNo
+ .text.FS_FAT_IsValidShortNameChar
+                0x00000bee       0x34 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000bee                FS_FAT_IsValidShortNameChar
+ .text.FS_FAT_CopyShortName
+                0x00000c22       0x56 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000c22                FS_FAT_CopyShortName
+ .text._SFN_CreateDirEntry
+                0x00000c78       0x5a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text._SFN_FindDirEntry
+                0x00000cd2       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ *fill*         0x00000ce2        0x2 
+ .text.FS_FAT_FindDirEntry
+                0x00000ce4       0x60 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000ce4                FS_FAT_FindDirEntry
+ .text.FS_FAT_CopyDirEntryInfo
+                0x00000d44       0x50 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000d44                FS_FAT_CopyDirEntryInfo
+ .text._SFN_ReadDirEntryInfo
+                0x00000d94       0x6e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text._SetFATSector
+                0x00000e02        0x6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text._WriteFATEntry
+                0x00000e08      0x152 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_MarkClusterEOC
+                0x00000f5a        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000f5a                FS_FAT_MarkClusterEOC
+ .text.FS_FAT_SyncFAT
+                0x00000f62       0x3c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000f62                FS_FAT_SyncFAT
+ .text.FS_FAT_LinkCluster
+                0x00000f9e       0x1c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000f9e                FS_FAT_LinkCluster
+ .text.FS_FAT_ReadFATEntry
+                0x00000fba       0xb2 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00000fba                FS_FAT_ReadFATEntry
+ .text.FS_FAT_GetNumAdjClustersInChain
+                0x0000106c       0x64 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x0000106c                FS_FAT_GetNumAdjClustersInChain
+ .text.FS_FAT_WalkClusterEx
+                0x000010d0       0x5c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x000010d0                FS_FAT_WalkClusterEx
+ .text.FS_FAT_GotoCluster
+                0x0000112c       0x88 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x0000112c                FS_FAT_GotoCluster
+ .text.FS_FAT_WalkCluster
+                0x000011b4       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x000011b4                FS_FAT_WalkCluster
+ .text.FS_FAT_FindLastCluster
+                0x000011cc       0x34 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x000011cc                FS_FAT_FindLastCluster
+ .text._CalcFreeClusterCnt
+                0x00001200       0x88 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_FindFreeCluster
+                0x00001288       0xa8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00001288                FS_FAT_FindFreeCluster
+ .text.FS_FAT_AllocCluster
+                0x00001330       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00001330                FS_FAT_AllocCluster
+ .text._WriteEmptyFATSectors
+                0x00001350       0x3c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .text.FS_FAT_FreeClusterChain
+                0x0000138c       0xe0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x0000138c                FS_FAT_FreeClusterChain
+ .text.FS_FAT_CheckBPB
+                0x0000146c      0x14c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x0000146c                FS_FAT_CheckBPB
+ .text.FS_FAT_InitDirEntryScan
+                0x000015b8       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x000015b8                FS_FAT_InitDirEntryScan
+ .text.FS_FAT_IncDirPos
+                0x000015cc        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x000015cc                FS_FAT_IncDirPos
+ .text._CopyDirText
+                0x000015d4       0x44 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ .text.FS_FAT_Make83Name
+                0x00001618       0xb0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x00001618                FS_FAT_Make83Name
+ .text.FS_FAT_GetDirEntry
+                0x000016c8       0xb2 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x000016c8                FS_FAT_GetDirEntry
+ .text.FS_FAT_FindDirEntryShortEx
+                0x0000177a       0x5a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x0000177a                FS_FAT_FindDirEntryShortEx
+ .text.FS_FAT_FindDirEntryShort
+                0x000017d4       0x36 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x000017d4                FS_FAT_FindDirEntryShort
+ .text.FS_FAT_FindEmptyDirEntry
+                0x0000180a       0xb0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x0000180a                FS_FAT_FindEmptyDirEntry
+ .text.FS_FAT_GetFirstCluster
+                0x000018ba       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x000018ba                FS_FAT_GetFirstCluster
+ .text.FS_FAT_FindPath
+                0x000018d4       0x7a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x000018d4                FS_FAT_FindPath
+ .text.FS_FAT_DeleteFileOrDir
+                0x0000194e       0x48 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x0000194e                FS_FAT_DeleteFileOrDir
+ *fill*         0x00001996        0x2 
+ .text.FS_FAT_Open
+                0x00001998      0x1dc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x00001998                FS_FAT_Open
+ .text.FS_FAT_WriteDirEntryCluster
+                0x00001b74       0x1c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x00001b74                FS_FAT_WriteDirEntryCluster
+ .text.FS_FAT_WriteDirEntry83
+                0x00001b90       0x6c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+                0x00001b90                FS_FAT_WriteDirEntry83
+ .text._WriteBurst
+                0x00001bfc       0x24 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+ .text.FS_FAT_GotoClusterAllocIfReq
+                0x00001c20       0xa8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+                0x00001c20                FS_FAT_GotoClusterAllocIfReq
+ .text.FS_FAT_UpdateDirEntry
+                0x00001cc8       0x68 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+                0x00001cc8                FS_FAT_UpdateDirEntry
+ .text.FS_FAT_Close
+                0x00001d30       0x44 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+                0x00001d30                FS_FAT_Close
+ .text.FS_FAT_Write
+                0x00001d74      0x1c8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+                0x00001d74                FS_FAT_Write
+ .text.FS__CLIB_memcmp
+                0x00001f3c       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                0x00001f3c                FS__CLIB_memcmp
+ .text.FS__CLIB_memset
+                0x00001f5c       0x6c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                0x00001f5c                FS__CLIB_memset
+ .text.FS__CLIB_strcmp
+                0x00001fc8       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                0x00001fc8                FS__CLIB_strcmp
+ .text.FS__CLIB_strlen
+                0x00001fe2       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                0x00001fe2                FS__CLIB_strlen
+ .text.FS__CLIB_strncmp
+                0x00001ff2       0x26 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                0x00001ff2                FS__CLIB_strncmp
+ .text.FS__CLIB_strncpy
+                0x00002018       0x2e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                0x00002018                FS__CLIB_strncpy
+ .text.FS__CLIB_toupper
+                0x00002046        0xe ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+                0x00002046                FS__CLIB_toupper
+ .text.FS__DivideU32Up
+                0x00002054        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x00002054                FS__DivideU32Up
+ .text.FS__strchr
+                0x0000205e       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x0000205e                FS__strchr
+ .text.FS_LoadU32BE
+                0x00002072       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x00002072                FS_LoadU32BE
+ .text.FS_LoadU32LE
+                0x0000208a       0x16 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x0000208a                FS_LoadU32LE
+ .text.FS_StoreU32LE
+                0x000020a0       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x000020a0                FS_StoreU32LE
+ .text.FS_StoreU16LE
+                0x000020b4        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x000020b4                FS_StoreU16LE
+ .text.FS_LoadU16LE
+                0x000020bc        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x000020bc                FS_LoadU16LE
+ *fill*         0x000020c6        0x2 
+ .text._Alloc   0x000020c8       0x30 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .text.FS_Alloc
+                0x000020f8        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x000020f8                FS_Alloc
+ .text.FS_TryAlloc
+                0x00002104        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x00002104                FS_TryAlloc
+ .text.FS_Free  0x00002108       0x1c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x00002108                FS_Free
+ .text.FS_AssignMemory
+                0x00002124        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x00002124                FS_AssignMemory
+ .text.FS_AllocZeroed
+                0x00002130       0x16 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x00002130                FS_AllocZeroed
+ *fill*         0x00002146        0x2 
+ .text.FS_STORAGE_Init
+                0x00002148       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x00002148                FS_STORAGE_Init
+ .text.FS__MkDir
+                0x00002170       0x24 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+                0x00002170                FS__MkDir
+ .text.FS_MkDir
+                0x00002194        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+                0x00002194                FS_MkDir
+ .text._ClrBusyLED
+                0x00002198        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .text._SetBusyLED
+                0x000021a4        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .text._Read    0x000021b0        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .text._Write   0x000021bc       0x12 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .text.FS_LB_GetStatus
+                0x000021ce        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x000021ce                FS_LB_GetStatus
+ .text.FS_LB_InitMedium
+                0x000021da       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x000021da                FS_LB_InitMedium
+ .text.FS_LB_InitMediumIfRequired
+                0x000021f4       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x000021f4                FS_LB_InitMediumIfRequired
+ .text.FS_LB_ReadDevice
+                0x00002204       0x2e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002204                FS_LB_ReadDevice
+ .text.FS_LB_ReadPart
+                0x00002232        0xe ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002232                FS_LB_ReadPart
+ .text.FS_LB_ReadBurst
+                0x00002240       0x38 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002240                FS_LB_ReadBurst
+ .text.FS_LB_ReadBurstPart
+                0x00002278       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002278                FS_LB_ReadBurstPart
+ .text.FS_LB_WriteBurst
+                0x0000228c       0x30 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x0000228c                FS_LB_WriteBurst
+ .text.FS_LB_WriteBurstPart
+                0x000022bc       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x000022bc                FS_LB_WriteBurstPart
+ .text.FS_LB_WriteMultiple
+                0x000022d0       0x30 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x000022d0                FS_LB_WriteMultiple
+ .text.FS_LB_WriteMultiplePart
+                0x00002300       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002300                FS_LB_WriteMultiplePart
+ .text.FS_LB_WriteDevice
+                0x00002314       0x36 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002314                FS_LB_WriteDevice
+ .text.FS_LB_WritePart
+                0x0000234a        0xe ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x0000234a                FS_LB_WritePart
+ .text.FS_GetSectorSize
+                0x00002358       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002358                FS_GetSectorSize
+ .text.FS_LB_GetDeviceInfo
+                0x00002380       0x26 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+                0x00002380                FS_LB_GetDeviceInfo
+ .text.FS_memcpy
+                0x000023a6      0x120 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_memcpy.o)
+                0x000023a6                FS_memcpy
+ *fill*         0x000024c6        0x2 
+ .text.FS__AllocSectorBuffer
+                0x000024c8       0x2c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000024c8                FS__AllocSectorBuffer
+ .text.FS__FreeSectorBuffer
+                0x000024f4       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000024f4                FS__FreeSectorBuffer
+ .text.FS__SB_MarkDirty
+                0x0000251c        0x6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x0000251c                FS__SB_MarkDirty
+ .text.FS__SB_MarkNotDirty
+                0x00002522        0x6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002522                FS__SB_MarkNotDirty
+ .text.FS__FreeFileHandle
+                0x00002528        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002528                FS__FreeFileHandle
+ .text.FS__FreeFileObj
+                0x00002532        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002532                FS__FreeFileObj
+ *fill*         0x0000253e        0x2 
+ .text.FS_Init  0x00002540       0x58 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002540                FS_Init
+ .text.FS__SB_Create
+                0x00002598       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002598                FS__SB_Create
+ .text.FS__FCloseNL
+                0x000025c0       0x1e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000025c0                FS__FCloseNL
+ .text.FS__FClose
+                0x000025de       0x1a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000025de                FS__FClose
+ .text.FS_FClose
+                0x000025f8        0xa ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000025f8                FS_FClose
+ *fill*         0x00002602        0x2 
+ .text.FS__AllocFileObj
+                0x00002604       0x48 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002604                FS__AllocFileObj
+ .text.FS__AllocFileHandle
+                0x0000264c       0x40 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x0000264c                FS__AllocFileHandle
+ .text.FS__OpenEx
+                0x0000268c       0x58 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x0000268c                FS__OpenEx
+ .text.FS__FOpenEx
+                0x000026e4       0x56 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000026e4                FS__FOpenEx
+ *fill*         0x0000273a        0x2 
+ .text.FS__FOpen
+                0x0000273c       0x48 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x0000273c                FS__FOpen
+ .text.FS_FOpen
+                0x00002784        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002784                FS_FOpen
+ .text.FS__SB_Write
+                0x00002788       0x24 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002788                FS__SB_Write
+ .text._SB_Clean
+                0x000027ac       0x24 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .text.FS__SB_SetSector
+                0x000027d0       0x20 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000027d0                FS__SB_SetSector
+ .text.FS__SB_MarkValid
+                0x000027f0       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x000027f0                FS__SB_MarkValid
+ .text.FS__SB_Clean
+                0x00002800        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002800                FS__SB_Clean
+ .text.FS__SB_Delete
+                0x00002804       0x12 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002804                FS__SB_Delete
+ .text.FS__SB_Flush
+                0x00002816        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x00002816                FS__SB_Flush
+ .text.FS__SB_Read
+                0x0000281e       0x2a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+                0x0000281e                FS__SB_Read
+ .text.FS__Read
+                0x00002848       0x2e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+                0x00002848                FS__Read
+ .text.FS_Read  0x00002876        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+                0x00002876                FS_Read
+ .text.FS__AddPhysDevice
+                0x0000287a       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+                0x0000287a                FS__AddPhysDevice
+ *fill*         0x0000288a        0x2 
+ .text.FS_GetVolumeName
+                0x0000288c       0x60 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+                0x0000288c                FS_GetVolumeName
+ .text.FS__FindVolume
+                0x000028ec       0x78 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+                0x000028ec                FS__FindVolume
+ .text.FS__AddDevice
+                0x00002964       0x68 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+                0x00002964                FS__AddDevice
+ .text.FS_AddDevice
+                0x000029cc        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+                0x000029cc                FS_AddDevice
+ .text._Mount   0x000029d0       0x2e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .text.FS__AutoMount
+                0x000029fe       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+                0x000029fe                FS__AutoMount
+ .text.FS__Write
+                0x00002a12       0x3a ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+                0x00002a12                FS__Write
+ .text.FS_Write
+                0x00002a4c        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+                0x00002a4c                FS_Write
+ .text.FS_FAT_CreateDirEx
+                0x00002a50      0x110 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+                0x00002a50                FS_FAT_CreateDirEx
+ .text.FS_FAT_CreateDir
+                0x00002b60       0x64 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+                0x00002b60                FS_FAT_CreateDir
+ .text.T.29     0x00002bc4      0x320 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .text._AutoFormat
+                0x00002ee4       0x7c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .text.FS_FAT_FormatEx
+                0x00002f60       0x74 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+                0x00002f60                FS_FAT_FormatEx
+ .text._ReadBurst
+                0x00002fd4       0x24 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+ .text.FS_FAT_Read
+                0x00002ff8      0x194 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+                0x00002ff8                FS_FAT_Read
+ .text._IsBPB   0x0000318c       0x1e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .text._HasSignature
+                0x000031aa       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .text._GetPartitionStartSector
+                0x000031c2        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .text.FS__GetMediaStartSecEx
+                0x000031ce       0x6e ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+                0x000031ce                FS__GetMediaStartSecEx
+ .text.FS__LocatePartition
+                0x0000323c       0x44 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+                0x0000323c                FS__LocatePartition
+ .text.FS_X_AddDevices
+                0x00003280       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+                0x00003280                FS_X_AddDevices
+ .text.FS_X_GetTimeDate
+                0x000032a0       0x58 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+                0x000032a0                FS_X_GetTimeDate
+ .text._CalcDataCRC16Dummy
+                0x000032f8        0x6 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ *fill*         0x000032fe        0x2 
+ .text._MMC_GetNumUnits
+                0x00003300        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._MMC_GetDriverName
+                0x0000330c        0x8 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._MMC_GetStatus
+                0x00003314        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._CheckR1
+                0x00003318       0x38 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._WaitToGetReady
+                0x00003350       0x26 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._SendEmptyCycles
+                0x00003376       0x24 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ *fill*         0x0000339a        0x2 
+ .text._MMC_AddDevice
+                0x0000339c       0x2c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text.T.53     0x000033c8       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._GetFromCSD
+                0x000033dc       0x34 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._ExecCmdR1
+                0x00003410       0x98 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._ReadCSD
+                0x000034a8       0x86 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ *fill*         0x0000352e        0x2 
+ .text._MMC_Read
+                0x00003530      0x130 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._MMC_Write
+                0x00003660      0x13c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._ApplyCSD
+                0x0000379c      0x228 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._MMC_Init
+                0x000039c4      0x1c0 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._MMC_InitMedium
+                0x00003b84       0x28 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text._MMC_IoCtl
+                0x00003bac       0x60 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .text.emFile_Init
+                0x00003c0c       0x6c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .text.emFile_ReadWriteSPI
+                0x00003c78       0x68 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .text.FS_MMC_HW_X_EnableCS
+                0x00003ce0       0x28 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003ce0                FS_MMC_HW_X_EnableCS
+ .text.FS_MMC_HW_X_DisableCS
+                0x00003d08       0x28 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003d08                FS_MMC_HW_X_DisableCS
+ .text.FS_MMC_HW_X_IsWriteProtected
+                0x00003d30       0x28 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003d30                FS_MMC_HW_X_IsWriteProtected
+ .text.FS_MMC_HW_X_SetMaxSpeed
+                0x00003d58       0x88 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003d58                FS_MMC_HW_X_SetMaxSpeed
+ .text.FS_MMC_HW_X_SetVoltage
+                0x00003de0       0x68 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003de0                FS_MMC_HW_X_SetVoltage
+ .text.FS_MMC_HW_X_IsPresent
+                0x00003e48       0x30 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003e48                FS_MMC_HW_X_IsPresent
+ .text.FS_MMC_HW_X_Read
+                0x00003e78       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003e78                FS_MMC_HW_X_Read
+ .text.FS_MMC_HW_X_Write
+                0x00003eb0       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                0x00003eb0                FS_MMC_HW_X_Write
+ .text.emFile_SPI0_Init
+                0x00003ee4       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003ee4                emFile_SPI0_Init
+ .text.emFile_SPI0_Enable
+                0x00003f18       0x64 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003f18                emFile_SPI0_Enable
+ .text.emFile_SPI0_Start
+                0x00003f7c       0x24 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003f7c                emFile_SPI0_Start
+ .text.emFile_SPI0_EnableTxInt
+                0x00003fa0        0xc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003fa0                emFile_SPI0_EnableTxInt
+ .text.emFile_SPI0_EnableRxInt
+                0x00003fac        0xc .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003fac                emFile_SPI0_EnableRxInt
+ .text.emFile_SPI0_ReadTxStatus
+                0x00003fb8       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003fb8                emFile_SPI0_ReadTxStatus
+ .text.emFile_SPI0_ReadRxStatus
+                0x00003fd4       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003fd4                emFile_SPI0_ReadRxStatus
+ .text.emFile_SPI0_WriteTxData
+                0x00003ff0       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00003ff0                emFile_SPI0_WriteTxData
+ .text.emFile_SPI0_ReadRxData
+                0x00004024       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00004024                emFile_SPI0_ReadRxData
+ .text.emFile_SPI0_ClearFIFO
+                0x00004040       0x60 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x00004040                emFile_SPI0_ClearFIFO
+ .text.emFile_Clock_1_Start
+                0x000040a0       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+                0x000040a0                emFile_Clock_1_Start
+ .text.emFile_Clock_1_Stop
+                0x000040d4       0x34 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+                0x000040d4                emFile_Clock_1_Stop
+ .text.emFile_Clock_1_SetDividerRegister
+                0x00004108      0x164 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+                0x00004108                emFile_Clock_1_SetDividerRegister
+ .text.emFile_Clock_1_GetDividerRegister
+                0x0000426c       0x18 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+                0x0000426c                emFile_Clock_1_GetDividerRegister
+ .text.emFile_Clock_1_GetSourceRegister
+                0x00004284       0x1c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+                0x00004284                emFile_Clock_1_GetSourceRegister
+ .text.emFile_SPI0_CS_Write
+                0x000042a0       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+                0x000042a0                emFile_SPI0_CS_Write
+ .text.__errno  0x000042d8        0xc c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+                0x000042d8                __errno
+ .text.__libc_init_array
+                0x000042e4       0x4c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+                0x000042e4                __libc_init_array
+ .text.memcpy   0x00004330       0x16 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+                0x00004330                memcpy
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00004346        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00004346        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00004346        0x0 linker stubs
+ *(.bootloader)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+
+.v4_bx          0x00004348        0x0
+ .v4_bx         0x00004348        0x0 linker stubs
+
+.iplt           0x00004348        0x0
+ .iplt          0x00004348        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x00004348        0x4
+ *(.eh_frame)
+ .eh_frame      0x00004348        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .eh_frame      0x00004348        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000434c                __exidx_end = .
+
+.rodata         0x0000434c      0x354
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000434c        0xa .\CortexM3\ARM_GCC_541\Debug\main.o
+ *fill*         0x00004356        0x2 
+ .rodata        0x00004358       0xa0 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .rodata        0x000043f8       0x98 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+ .rodata        0x00004490       0x10 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x00004490                FAT_SFN_API
+ .rodata.str1.1
+                0x000044a0        0x3 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ *fill*         0x000044a3        0x1 
+ .rodata        0x000044a4       0x78 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .rodata.str1.1
+                0x0000451c       0x30 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .rodata        0x0000454c       0x18 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .rodata        0x00004564       0x7c ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+                0x00004574                _acVolumeLabel
+ .rodata.str1.1
+                0x000045e0       0x1b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ *fill*         0x000045fb        0x1 
+ .rodata        0x000045fc       0x68 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+                0x00004644                FS_MMC_SPI_Driver
+ .rodata.str1.1
+                0x00004664        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .rodata.str1.1
+                0x00004668        0x2 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+                0x0000466c                . = ALIGN (0x4)
+ *fill*         0x0000466a        0x2 
+ *(.init)
+ .init          0x0000466c        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x0000466c                _init
+ .init          0x00004670        0x8 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+                0x00004678                . = ALIGN (0x4)
+                0x00004678                __preinit_array_start = .
+ *(.preinit_array)
+                0x00004678                __preinit_array_end = .
+                0x00004678                . = ALIGN (0x4)
+                0x00004678                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00004678        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .init_array    0x0000467c        0x4 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                0x00004680                __init_array_end = .
+                0x00004680                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00004680        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x00004680                _fini
+ .fini          0x00004684        0x8 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+                0x0000468c                . = ALIGN (0x4)
+                0x0000468c                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x0000468c        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00004690                __fini_array_end = .
+                0x00004690                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x00004690                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x00004690                . = ALIGN (0x4)
+                0x00004690                __cy_regions = .
+                0x00004690        0x4 LONG 0x46a0 __cy_region_init_ram
+                0x00004694        0x4 LONG 0x1fff80c8 __cy_region_start_data
+                0x00004698        0x4 LONG 0xa8 __cy_region_init_size_ram
+                0x0000469c        0x4 LONG 0x10d0 __cy_region_zero_size_ram
+                0x000046a0                __cy_regions_end = .
+                0x000046a0                . = ALIGN (0x8)
+                0x000046a0                _etext = .
+
+.cy_checksum_exclude
+                0x000046a0        0x0
+ *(.cy_checksum_exclude)
+
+.ramvectors     0x1fff8000       0xc0
+                0x1fff8000                __cy_region_start_ram = .
+ *(.ramvectors)
+ .ramvectors    0x1fff8000       0xc0 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                0x1fff8000                CyRamVectors
+
+.noinit         0x1fff80c0        0x5
+ *(.noinit)
+ .noinit        0x1fff80c0        0x4 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .noinit        0x1fff80c4        0x1 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+                0x1fff80c4                CyResetStatus
+
+.data           0x1fff80c8       0xa8 load address 0x000046a0
+                0x1fff80c8                __cy_region_start_data = .
+ *(.jcr)
+ .jcr           0x1fff80c8        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .jcr           0x1fff80c8        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x1fff80cc       0x26 .\CortexM3\ARM_GCC_541\Debug\main.o
+                0x1fff80cc                sdFile
+                0x1fff80d8                sdFile2
+                0x1fff80e8                sdFile3
+ *fill*         0x1fff80f2        0x2 
+ .data          0x1fff80f4       0x10 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+                0x1fff80f4                cydelay_freq_hz
+                0x1fff80f8                cydelay_freq_khz
+                0x1fff80fc                cydelay_freq_mhz
+                0x1fff8100                cydelay_32k_ms
+ .data          0x1fff8104        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+                0x1fff8104                FAT_pDirEntryAPI
+ .data          0x1fff8108        0x4 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .data.impure_data
+                0x1fff810c       0x60 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x1fff816c        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+                0x1fff816c                _impure_ptr
+                0x1fff8170                . = ALIGN (0x8)
+ *(.ram)
+                0x1fff8170                _edata = .
+
+.igot.plt       0x1fff8170        0x0 load address 0x00004748
+ .igot.plt      0x1fff8170        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.bss            0x1fff8170     0x10d0 load address 0x00004748
+                0x1fff8170                PROVIDE (__bss_start__, .)
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x1fff8170       0x1c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ *fill*         0x1fff818c        0x4 
+ .bss           0x1fff8190        0x4 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .bss           0x1fff8194        0xc ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .bss           0x1fff81a0     0x1000 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .bss           0x1fff91a0       0x14 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .bss           0x1fff91b4        0x1 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .bss           0x1fff91b5        0x1 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                0x1fff91b5                emFile_SPI0_initVar
+ *(COMMON)
+ *fill*         0x1fff91b6        0x2 
+ COMMON         0x1fff91b8       0x84 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+                0x1fff91b8                FS_Global
+                0x1fff9238                FS_NumBytesAllocated
+                0x1fff9240                . = ALIGN (0x8)
+ *fill*         0x1fff923c        0x4 
+ *(.ram.b)
+                0x1fff9240                _end = .
+                0x1fff9240                __end = .
+                0x1fff9240                PROVIDE (end, .)
+                0x1fff9240                PROVIDE (__bss_end__, .)
+                0x000046a0                __cy_region_init_ram = LOADADDR (.data)
+                0x000000a8                __cy_region_init_size_ram = (_edata - ADDR (.data))
+                0x000010d0                __cy_region_zero_size_ram = (_end - _edata)
+
+.heap           0x1fff9240       0x80 load address 0x00004748
+                0x1fff9240                . = _end
+                0x1fff92c0                . = (. + 0x80)
+ *fill*         0x1fff9240       0x80 
+                0x1fff92c0                __cy_heap_limit = .
+
+.stack          0x20007800      0x800
+                0x20007800                __cy_stack_limit = .
+                0x20008000                . = (. + 0x800)
+ *fill*         0x20007800      0x800 
+                0x00000001                ASSERT ((__cy_stack_limit >= __cy_heap_limit), region RAM overflowed with stack)
+                0x00000000                cy_checksum_exclude_size = (CY_APPL_LOADABLE == 0x1)?SIZEOF (.cy_checksum_exclude):0x0
+                0x00000001                ASSERT ((cy_checksum_exclude_size <= CY_CHECKSUM_EXCLUDE_SIZE), CY_BOOT: Section .cy_checksum_exclude size exceedes specified limit.)
+
+.cyloadermeta
+ *(.cyloadermeta)
+
+.cyloadablemeta
+ *(.cyloadablemeta)
+
+.cyconfigecc    0x80000000      0x850
+ *(.cyconfigecc)
+ .cyconfigecc   0x80000000      0x850 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+                0x80000000                cy_meta_configecc
+
+.cycustnvl      0x90000000        0x4
+ *(.cycustnvl)
+ .cycustnvl     0x90000000        0x4 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+                0x90000000                cy_meta_custnvl
+
+.cywolatch      0x90100000        0x4
+ *(.cywolatch)
+ .cywolatch     0x90100000        0x4 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+                0x90100000                cy_meta_wonvl
+
+.cyeeprom       0x90200000        0x0
+ *(.cyeeprom)
+                0x00000001                ASSERT ((. <= ((0x90200000 + ee_offset) + ee_size)), .cyeeprom data will not fit in EEPROM)
+
+.cyflashprotect
+                0x90400000      0x100
+ *(.cyflashprotect)
+ .cyflashprotect
+                0x90400000      0x100 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+                0x90400000                cy_meta_flashprotect
+
+.cymeta         0x90500000        0xc
+ *(.cymeta)
+ .cymeta        0x90500000        0xc .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+                0x90500000                cy_metadata
+
+.rel.dyn        0x00004748        0x0 load address 0x9050000c
+ .rel.iplt      0x00004748        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x750
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 .\CortexM3\ARM_GCC_541\Debug\main.o
+ .debug_aranges
+                0x00000020       0x60 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_aranges
+                0x00000080       0x18 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .debug_aranges
+                0x00000098       0x48 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .debug_aranges
+                0x000000e0      0x2a0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .debug_aranges
+                0x00000380       0x98 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .debug_aranges
+                0x00000418       0x20 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+ .debug_aranges
+                0x00000438       0x88 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .debug_aranges
+                0x000004c0       0x80 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .debug_aranges
+                0x00000540       0x28 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .debug_aranges
+                0x00000568       0x68 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .debug_aranges
+                0x000005d0       0xd8 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .debug_aranges
+                0x000006a8       0x70 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .debug_aranges
+                0x00000718       0x38 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x342b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x1cb .\CortexM3\ARM_GCC_541\Debug\main.o
+ .debug_info    0x000001cb      0x3dd .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_info    0x000005a8      0x139 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .debug_info    0x000006e1      0x32b .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .debug_info    0x00000a0c      0xe51 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .debug_info    0x0000185d      0x57a .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .debug_info    0x00001dd7       0xab .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+ .debug_info    0x00001e82      0x3b9 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .debug_info    0x0000223b      0x4c0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .debug_info    0x000026fb      0x281 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .debug_info    0x0000297c      0x340 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .debug_info    0x00002cbc      0x3f4 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .debug_info    0x000030b0      0x25d .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .debug_info    0x0000330d      0x11e .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+
+.debug_abbrev   0x00000000      0xffd
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xba .\CortexM3\ARM_GCC_541\Debug\main.o
+ .debug_abbrev  0x000000ba      0x183 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_abbrev  0x0000023d       0x77 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .debug_abbrev  0x000002b4      0x1d6 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .debug_abbrev  0x0000048a      0x217 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .debug_abbrev  0x000006a1      0x161 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .debug_abbrev  0x00000802       0x14 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+ .debug_abbrev  0x00000816      0x14b .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .debug_abbrev  0x00000961      0x16c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .debug_abbrev  0x00000acd      0x101 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .debug_abbrev  0x00000bce      0x12c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .debug_abbrev  0x00000cfa      0x156 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .debug_abbrev  0x00000e50      0x11d .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .debug_abbrev  0x00000f6d       0x90 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+
+.debug_line     0x00000000     0x2019
+ *(.debug_line)
+ .debug_line    0x00000000      0x1d7 .\CortexM3\ARM_GCC_541\Debug\main.o
+ .debug_line    0x000001d7      0x234 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_line    0x0000040b      0x141 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .debug_line    0x0000054c      0x1dc .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .debug_line    0x00000728      0x883 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .debug_line    0x00000fab      0x38e .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .debug_line    0x00001339       0x66 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+ .debug_line    0x0000139f      0x22f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .debug_line    0x000015ce      0x231 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .debug_line    0x000017ff       0xc3 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .debug_line    0x000018c2      0x2a5 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .debug_line    0x00001b67      0x267 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .debug_line    0x00001dce      0x1ad .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .debug_line    0x00001f7b       0x9e .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+
+.debug_frame    0x00000000     0x1dd0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x38 .\CortexM3\ARM_GCC_541\Debug\main.o
+ .debug_frame   0x00000038      0x160 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_frame   0x00000198       0xd8 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .debug_frame   0x00000270      0xc0c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .debug_frame   0x00000e7c      0x234 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .debug_frame   0x000010b0      0x238 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .debug_frame   0x000012e8      0x228 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .debug_frame   0x00001510       0x54 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .debug_frame   0x00001564      0x1a0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .debug_frame   0x00001704      0x38c .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .debug_frame   0x00001a90      0x1b4 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .debug_frame   0x00001c44       0xa8 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .debug_frame   0x00001cec       0x20 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00001d0c       0x28 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00001d34       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00001d60       0x28 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x00001d88       0x28 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001db0       0x20 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+
+.debug_str      0x00000000     0x1a70
+ *(.debug_str)
+ .debug_str     0x00000000      0x1c3 .\CortexM3\ARM_GCC_541\Debug\main.o
+                                0x20b (size before relaxing)
+ .debug_str     0x000001c3      0x1a2 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+                                0x344 (size before relaxing)
+ .debug_str     0x00000365       0x7f .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+                                0x1ff (size before relaxing)
+ .debug_str     0x000003e4      0x124 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                                0x2f2 (size before relaxing)
+ .debug_str     0x00000508      0x812 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+                                0xa05 (size before relaxing)
+ .debug_str     0x00000d1a      0x371 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+                                0x55e (size before relaxing)
+ .debug_str     0x0000108b      0x156 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+                                0x322 (size before relaxing)
+ .debug_str     0x000011e1      0x134 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+                                0x31c (size before relaxing)
+ .debug_str     0x00001315       0xdf .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+                                0x269 (size before relaxing)
+ .debug_str     0x000013f4      0x153 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+                                0x318 (size before relaxing)
+ .debug_str     0x00001547      0x2e0 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+                                0x497 (size before relaxing)
+ .debug_str     0x00001827      0x1b6 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+                                0x35d (size before relaxing)
+ .debug_str     0x000019dd       0x93 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+                                0x22a (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_ranges   0x00000000      0x658
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 .\CortexM3\ARM_GCC_541\Debug\main.o
+ .debug_ranges  0x00000010       0x50 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_ranges  0x00000060       0x38 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .debug_ranges  0x00000098      0x290 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .debug_ranges  0x00000328       0x88 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .debug_ranges  0x000003b0       0x78 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .debug_ranges  0x00000428       0x70 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .debug_ranges  0x00000498       0x18 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .debug_ranges  0x000004b0       0x58 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .debug_ranges  0x00000508       0xc8 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .debug_ranges  0x000005d0       0x60 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .debug_ranges  0x00000630       0x28 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+
+.comment        0x00000000      0x4a1
+ .comment       0x00000000       0x6e .\CortexM3\ARM_GCC_541\Debug\main.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .comment       0x0000006e       0x6f .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .comment       0x0000006e       0x6f .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .comment       0x0000006e       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .comment       0x0000006e       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .comment       0x0000006e       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .comment       0x0000006e       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .comment       0x0000006e       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+ .comment       0x00000099       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .comment       0x000000c4       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ .comment       0x000000ef       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+ .comment       0x0000011a       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .comment       0x00000145       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .comment       0x00000170       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .comment       0x0000019b       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .comment       0x000001c6       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_memcpy.o)
+ .comment       0x000001f1       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .comment       0x0000021c       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+ .comment       0x00000247       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .comment       0x00000272       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .comment       0x0000029d       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .comment       0x000002c8       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+ .comment       0x000002f3       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .comment       0x0000031e       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .comment       0x00000349       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+ .comment       0x00000374       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+ .comment       0x0000039f       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .comment       0x000003ca       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+ .comment       0x000003f5       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .comment       0x00000420       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .comment       0x0000044b       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .comment       0x0000044b       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .comment       0x00000476       0x2b ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .comment       0x000004a1       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .comment       0x000004a1       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .comment       0x000004a1       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .comment       0x000004a1       0x6f .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x33 .\CortexM3\ARM_GCC_541\Debug\main.o
+ .ARM.attributes
+                0x00000098       0x33 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .ARM.attributes
+                0x000000cb       0x33 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .ARM.attributes
+                0x000000fe       0x33 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .ARM.attributes
+                0x00000131       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyLib.o)
+ .ARM.attributes
+                0x00000164       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(cyPm.o)
+ .ARM.attributes
+                0x00000197       0x21 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyBootAsmGnu.o)
+ .ARM.attributes
+                0x000001b8       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CyFlash.o)
+ .ARM.attributes
+                0x000001eb       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(CySpc.o)
+ .ARM.attributes
+                0x0000021e       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_FormatSD.o)
+ .ARM.attributes
+                0x0000024f       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Misc.o)
+ .ARM.attributes
+                0x00000280       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Open.o)
+ .ARM.attributes
+                0x000002b1       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Write.o)
+ .ARM.attributes
+                0x000002e2       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CLib.o)
+ .ARM.attributes
+                0x00000313       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Core.o)
+ .ARM.attributes
+                0x00000344       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Dir.o)
+ .ARM.attributes
+                0x00000375       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_LogBlock.o)
+ .ARM.attributes
+                0x000003a6       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_memcpy.o)
+ .ARM.attributes
+                0x000003d7       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Misc.o)
+ .ARM.attributes
+                0x00000408       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Read.o)
+ .ARM.attributes
+                0x00000439       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Storage.o)
+ .ARM.attributes
+                0x0000046a       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Unmount.o)
+ .ARM.attributes
+                0x0000049b       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Volume.o)
+ .ARM.attributes
+                0x000004cc       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Write.o)
+ .ARM.attributes
+                0x000004fd       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_CheckDisk.o)
+ .ARM.attributes
+                0x0000052e       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Dir.o)
+ .ARM.attributes
+                0x0000055f       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DirEntry.o)
+ .ARM.attributes
+                0x00000590       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_DiskInfo.o)
+ .ARM.attributes
+                0x000005c1       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Format.o)
+ .ARM.attributes
+                0x000005f2       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_Read.o)
+ .ARM.attributes
+                0x00000623       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FAT_VolumeLabel.o)
+ .ARM.attributes
+                0x00000654       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_Partition.o)
+ .ARM.attributes
+                0x00000685       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_ConfigMMC_SPI.o)
+ .ARM.attributes
+                0x000006b8       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(MMC_Drv.o)
+ .ARM.attributes
+                0x000006e9       0x31 ..\..\Libraries\emFile_V322c\LinkLibrary\PSoC5\GCC\libemf16nosnlfn.a(FS_CRC16.o)
+ .ARM.attributes
+                0x0000071a       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_MMC_HW_SPI.o)
+ .ARM.attributes
+                0x0000074d       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0.o)
+ .ARM.attributes
+                0x00000780       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_Clock_1.o)
+ .ARM.attributes
+                0x000007b3       0x33 .\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.a(emFile_SPI0_CS.o)
+ .ARM.attributes
+                0x000007e6       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000813       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000840       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000086d       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000089a       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000008c7       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000008f4       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000921       0x17 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000938       0x2d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000965       0x1d c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(C:\Users\James\Documents\PSoC Creator\em_File_Hello_World.Bundle01\em_File_Hello_World.cydsn\CortexM3\ARM_GCC_541\Debug\em_File_Hello_World.elf elf32-littlearm)

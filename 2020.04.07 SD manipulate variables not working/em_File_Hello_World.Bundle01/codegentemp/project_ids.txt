@@ -1,0 +1,7 @@
+C:\Users\James\Documents\PSoC Creator\em_File_Hello_World.Bundle01\em_File_Hello_World.cydsn\em_File_Hello_World.cyprj|aa55d9b9-4c62-47e6-8743-b71f41a1559c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e6424fe7-b9a2-43c5-8d86-3f70e4679f1c
+C:\Users\James\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|6b70b12e-b2ca-4d0d-9b5c-b901710f6502
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|75f9a07b-6800-4255-9e62-989894e05692
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|14fe90e2-3816-40b8-a5d6-79ae71a54d70
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5b8861be-07c1-45e4-b8f8-251993452429
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|942b801c-f909-4d5c-8635-78d1dbbb7299

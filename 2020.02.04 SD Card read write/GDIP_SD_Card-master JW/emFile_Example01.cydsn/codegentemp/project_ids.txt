@@ -1,0 +1,8 @@
+C:\Users\James\Downloads\GDIP_SD_Card-master\GDIP_SD_Card-master\SD_Card_Development\em_File_Hello_World.cydsn\em_File_Hello_World.cyprj|6e231878-bd63-47bd-9ebb-1a0019923385
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7f7b8e00-72d4-40dc-b58c-6571b641c7e0
+C:\Users\James\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|042446ea-8997-4b11-9774-16961c96cae1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cbd2486d-fe3c-454f-be5b-42386a7ba440
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|d0927154-3eb9-444c-ba05-ca87fe3e08c8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|26d4b800-f44c-4454-8870-b1230ee26bc5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|d92fd28f-2925-4204-9baa-388e2547d93b
+C:\Users\James\Downloads\GDIP_SD_Card-master JW\emFile_Example01.cydsn\emFile_Example01.cyprj|4f9bd092-00db-4040-846e-86acc026f030

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="I2C_LCD_Example">
+  <Version>1.0</Version>
+  <Keyword>I2C LCD</Keyword>
+  <Description>This is a source code for example project that demonstartes functionality of I2C LCD component.
+  </Description>
+  <DeviceFilter>PSoC 3</DeviceFilter>
+  <DeviceFilter>PSoC 5LP</DeviceFilter>
+  <Document>I2C_LCD_Example.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
